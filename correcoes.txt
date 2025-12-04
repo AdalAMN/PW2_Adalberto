@@ -1,0 +1,7 @@
+- Não fez tratamento mínimo de erros nas respostas da api.
+- Não tem arquivo central de rotas do backend.
+- Dois diretórios de controladores no backend.
+- Não seguiu as orientações sobre organização de arquivos no frontend e no backend.
+- Não implementou login/logout no frontend
+
+Nota: 7.0
